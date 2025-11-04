@@ -107,7 +107,6 @@ section{
     justify-content: center;
     align-items: center;
     gap: 8rem;
-    background: linear-gradient(to right, #ffdf00, #d5b500);
 }
 
 .home .home-content h1{
@@ -336,4 +335,5 @@ span{
 .button:active {
     transform: scale(0.8);
 }
+
 
